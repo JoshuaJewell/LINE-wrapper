@@ -1,0 +1,22 @@
+{
+  "name": "line-wrapper",
+  "version": "0.0.1",
+  "description": "Electron wrapper for LINE messaging app.",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaJewell/LINE-wrapper.git"
+  },
+  "author": "Joshua Jewell",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/JoshuaJewell/LINE-wrapper/issues"
+  },
+  "homepage": "https://github.com/JoshuaJewell/LINE-wrapper#readme",
+  "dependencies": {
+    "electron": "^32.1.0"
+  }
+}
