@@ -4,7 +4,7 @@
   "description": "Electron wrapper for LINE messaging app.",
   "main": "main.js",
   "scripts": {
-    "test": "electron main.js"
+    "start": "electron main.js"
   },
   "repository": {
     "type": "git",
